@@ -13,7 +13,14 @@
 3. Follow the on screen instructions to provide your Discord token and server IDs.
 4. The tool will guide you through the cloning process.
 
+## Bugs OR Errors
+- If you found any bugs or errors then dm me on discord
+- my discord id is **@diff.lyy**
+- or you can create an issue in repository
+
 ## NOTE:
 - Please star my repository as it took 6-7 hours to make this cloner.
 - **Here's My Repository Link**
 - [Arise Cloner](https://github.com/Better-Diff/Arise-Cloner)
+
+## IF I DON'T REPLY MEANS AM DED 🙂
