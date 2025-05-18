@@ -19,7 +19,7 @@
 - or you can create an issue in repository
 
 ## NOTE:
-- Please star my repository as it took 6-7 hours to make this cloner.
+- Please star my repository as it took 6-7 hours to make this discord cloner.
 - **Here's My Repository Link**
 - [Arise Cloner](https://github.com/Better-Diff/Arise-Cloner)
 
