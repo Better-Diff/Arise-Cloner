@@ -15,11 +15,11 @@
 
 ## Bugs OR Errors
 - If you found any bugs or errors then dm me on discord
-- my discord id is **@diff.lyy**
+- my discord id is **@diff.ly**
 - or you can create an issue in repository
 
 ## NOTE:
-- Please star my repository as it took 6-7 hours to make this discord cloner.
+- Please star my repository as it took 6-7 hours to code this discord cloner.
 - **Here's My Repository Link**
 - [Arise Cloner](https://github.com/Better-Diff/Arise-Cloner)
 
